@@ -1,0 +1,25 @@
+{
+  "name": "myfirstnpmmodule",
+  "version": "1.0.0",
+  "description": "My First NPM Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srslafazan/myFirstNpmModule.git"
+  },
+  "keywords": [
+    "npm",
+    "module",
+    "first",
+    "practice"
+  ],
+  "author": "Shain Lafazan, srslafazan@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srslafazan/myFirstNpmModule/issues"
+  },
+  "homepage": "https://github.com/srslafazan/myFirstNpmModule#readme"
+}
